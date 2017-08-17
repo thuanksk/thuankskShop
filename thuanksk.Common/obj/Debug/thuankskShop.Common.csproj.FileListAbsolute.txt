@@ -1,0 +1,5 @@
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuanksk.Common\bin\Debug\thuanksk.Common.dll
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuanksk.Common\bin\Debug\thuanksk.Common.pdb
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuanksk.Common\obj\Debug\thuanksk.Common.dll
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuanksk.Common\obj\Debug\thuanksk.Common.pdb
+C:\Users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuanksk.Common\obj\Debug\thuankskShop.Common.csprojResolveAssemblyReference.cache

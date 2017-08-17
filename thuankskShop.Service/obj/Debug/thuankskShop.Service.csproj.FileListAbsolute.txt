@@ -1,0 +1,11 @@
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Service\bin\Debug\thuankskShop.Service.dll
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Service\bin\Debug\thuankskShop.Service.pdb
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Service\bin\Debug\thuanksk.Common.dll
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Service\bin\Debug\thuankskShop.Data.dll
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Service\bin\Debug\thuankskShop.Model.dll
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Service\bin\Debug\thuanksk.Common.pdb
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Service\bin\Debug\thuankskShop.Data.pdb
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Service\bin\Debug\thuankskShop.Model.pdb
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Service\obj\Debug\thuankskShop.Service.csprojResolveAssemblyReference.cache
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Service\obj\Debug\thuankskShop.Service.dll
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Service\obj\Debug\thuankskShop.Service.pdb

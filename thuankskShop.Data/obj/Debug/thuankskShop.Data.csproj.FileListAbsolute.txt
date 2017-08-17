@@ -1,0 +1,12 @@
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Data\bin\Debug\thuankskShop.Data.dll.config
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Data\bin\Debug\thuankskShop.Data.dll
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Data\bin\Debug\thuankskShop.Data.pdb
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Data\bin\Debug\EntityFramework.dll
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Data\bin\Debug\thuanksk.Common.dll
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Data\bin\Debug\thuanksk.Common.pdb
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Data\bin\Debug\EntityFramework.xml
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Data\obj\Debug\thuankskShop.Data.csprojResolveAssemblyReference.cache
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Data\obj\Debug\thuankskShop.Data.dll
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Data\obj\Debug\thuankskShop.Data.pdb

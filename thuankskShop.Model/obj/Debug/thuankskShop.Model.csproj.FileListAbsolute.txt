@@ -1,0 +1,10 @@
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Model\bin\Debug\thuankskShop.Model.dll.config
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Model\bin\Debug\thuankskShop.Model.dll
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Model\bin\Debug\thuankskShop.Model.pdb
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Model\bin\Debug\EntityFramework.dll
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Model\bin\Debug\EntityFramework.xml
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Model\obj\Debug\thuankskShop.Model.dll
+c:\users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Model\obj\Debug\thuankskShop.Model.pdb
+C:\Users\thuanksk\documents\visual studio 2013\Projects\KSKShop\thuankskShop.Model\obj\Debug\thuankskShop.Model.csprojResolveAssemblyReference.cache
